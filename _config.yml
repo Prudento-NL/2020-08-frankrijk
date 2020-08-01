@@ -1,13 +1,13 @@
 # basic options
-title: Vakantie MAAND JAAR - BESTEMMING
+title: Vakantie augustus en september 2020 - Frankrijk
 author: Kees
-description: Blog van de vakantie van MAAND JAAR
+description: Blog van de kampeervakantie van augustus en september 2020
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/template-vakantie-blog.git"
+URL: "https://github.com/Prudento-NL/2020-08-frankrijk.git"
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
-images: "https://prudento-nl.github.io/template-vakantie-blog/images"
+images: "https://github.com/Prudento-NL/2020-08-frankrijk/images"
 
 # Build settings
 markdown: kramdown

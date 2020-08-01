@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Deze site is speciaal aangemaakt om verslag te kunnen doen van de vakantie ...... toevoegen LAND MET LINK [LAND](LINK).  
+Deze site is speciaal aangemaakt om verslag te kunnen doen van de kampeervakantie van 2020 naar [Frankrijk](https://nl.wikipedia.org/wiki/Frankrijk).  
 
-Plaats: [PLAATS](LINK)  
-Hotel: [HOTEL](LINK)  
-Camping: [CAMPING](LINK)
+Plaats: [Luzy](https://nl.wikipedia.org/wiki/Luzy)  
+Camping: [Domaine de la Gagère](https://la-gagere.com/)
 
 **Uitrusting:**
-- Tent: Karsten 300 of Carp 220
-- Auto: Subaru XV
+- Tent: Karsten 300
+- Auto: Subaru XV  
+
+![Kaart Luzy]({{ site.images }}/luzy_kaart.jpg?raw=true)
