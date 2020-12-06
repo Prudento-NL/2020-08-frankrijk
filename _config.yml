@@ -4,7 +4,8 @@ author: Kees
 description: Blog van de kampeervakantie van augustus en september 2020
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/2020-08-frankrijk.git"
+baseurl: "/2020-08-frankrijk"
+url: "https://prudento-nl.github.io"
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
 images: "https://prudento-nl.github.io/2020-08-frankrijk/images"
